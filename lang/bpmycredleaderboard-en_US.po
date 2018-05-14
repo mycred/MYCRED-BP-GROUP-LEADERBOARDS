@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myCRED BP Group Leaderboards\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-25 17:23+0000\n"
+"PO-Revision-Date: 2017-02-25 17:24+0000\n"
+"Last-Translator: Gabriel Merovingi <gabriel.s@merovingi.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: mycred-bp-group-leaderboards.php:252 mycred-bp-group-leaderboards.php:266
+#: mycred-bp-group-leaderboards.php:266 mycred-bp-group-leaderboards.php:302
+msgid "Leaderboards"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:300
+msgid "BuddyPress Settings"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:300
+msgid "Leaderboard Documentation"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:308
+msgid "Default Setup"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:312
+msgid "Point Types"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:315
+msgid ""
+"Select the point type(s) to base the leaderboard on. If more then one type "
+"is selected, members will be able to select which point type to show in each "
+"group."
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:319
+msgid "Leaderboard Size"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:322
+#, php-format
+msgid "The number of users to show in the leaderboards by default. Maximum %d."
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:326
+msgid "Append Current Member"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:328
+msgid "Yes"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:328
+msgid "No"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:329
+msgid ""
+"When a member views the leaderboard and they are not in the size set, do you "
+"want the user to be appended to the end of the leaderboard with their "
+"current position?"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:338 includes/bpgroup-leaderboard.php:224
+msgid "Leaderboard Type"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:370
+msgid "Group Override"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:372
+msgid "Enforce these default settings for all group leaderboards."
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:373
+msgid "Allow group admins to change leaderboard setups for each group."
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:379
+msgid "Group menu"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:382
+msgid "Menu Title"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:385
+msgid "The group menu title."
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:389
+msgid "Menu Slug"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:392
+msgid "The group menu URL slug."
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:396
+msgid "Menu Position"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:399
+msgid "The menu position."
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:408
+msgid "Save Settings"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:554
+msgid "More information about this plugin"
+msgstr ""
+
+#: mycred-bp-group-leaderboards.php:556
+msgid "View details"
+msgstr ""
+
+#: includes/bpgroup-leaderboard-functions.php:41
+msgid "Leaderboard Based on Current Balance"
+msgstr ""
+
+#: includes/bpgroup-leaderboard-functions.php:42
+msgid "Leaderboard Based on Total Balance"
+msgstr ""
+
+#: includes/bpgroup-leaderboard-functions.php:43
+msgid "Leaderboard Based on Today's Gains"
+msgstr ""
+
+#: includes/bpgroup-leaderboard-functions.php:44
+msgid "Leaderboard Based on This Week's Gains"
+msgstr ""
+
+#: includes/bpgroup-leaderboard-functions.php:45
+msgid "Leaderboard Based on This Months' Gains"
+msgstr ""
+
+#: includes/bpgroup-leaderboard-functions.php:46
+msgid "Leaderboard Based on Date Range"
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:35
+msgid "Save"
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:61
+#, php-format
+msgid "%s Leaderboard"
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:75
+msgid "Position"
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:76
+msgid "Member"
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:108
+msgid "Filter"
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:181
+msgid "The leaderboard is empty."
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:196
+msgid "There are no point types to show a leaderboard for."
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:215
+msgid "Size"
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:217
+#, php-format
+msgid "The number of users to show in the leaderboard. Maximum %d."
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:218
+msgid ""
+"Append the position of the member viewing the leaderboard if they are not in "
+"the set size."
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:263
+msgid "From Date:"
+msgstr ""
+
+#: includes/bpgroup-leaderboard.php:264
+msgid "Until Date:"
+msgstr ""
+
+#. Name of the plugin
+msgid "myCRED BP Group Leaderboards"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add leaderboards for each group in your BuddyPress installation."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://mycred.me"
+msgstr "http://mycred.me"
+
+#. Author of the plugin
+msgid "Gabriel S Merovingi"
+msgstr "Gabriel S Merovingi"
+
+#. Author URI of the plugin
+msgid "http://www.merovingi.com"
+msgstr "http://www.merovingi.com"
